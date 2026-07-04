@@ -1,0 +1,17 @@
+nltk 
+torch 
+torchvision 
+torchaudio 
+datasets 
+evaluate 
+bert-score 
+sentencepiece 
+accelerate 
+peft 
+pandas 
+numpy 
+matplotlib 
+tqdm 
+transformers==4.46.3 
+huggingface_hub==0.26.5 
+IndicTransToolkit
